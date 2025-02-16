@@ -8,6 +8,6 @@ class Store extends Component
 {
     public function render()
     {
-        return view('livewire.store');
+        return view('livewire.store'); // Ensure this matches your layout file's path;
     }
 }
